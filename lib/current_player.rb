@@ -5,6 +5,5 @@ def turn_count(board1)
   count += 1
   end
 end
-count.to_i
 return count
 end
