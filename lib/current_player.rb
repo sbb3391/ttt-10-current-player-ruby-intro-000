@@ -5,5 +5,5 @@ def turn_count(board1)
   count += 1
   end
 end
-puts count.value
+puts count
 end
