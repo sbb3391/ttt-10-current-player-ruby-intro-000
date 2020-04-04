@@ -8,5 +8,11 @@ end
 return count
 end
 
-def current_player()
+def current_player(board)
+  turn_count(board)
+  if count.even == true
+    "X"
+  else
+    "O"
+end
 end
