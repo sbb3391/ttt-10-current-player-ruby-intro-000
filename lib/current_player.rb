@@ -6,5 +6,5 @@ def turn_count(board1)
   end
 end
 count.to_i
-puts count
+return count
 end
